@@ -2,9 +2,12 @@
 > 本项目目前还存在着许多不足，所以Bug多也是难免的，欢迎你们的建议
 >
 > 本项目使用的图标全部来源于Microsoft Fluent Design，如果侵权，可以发送邮件到`phigrcraftos@outlook.com`
-
-> [!Tip]
+>
 > 作者的哔哩哔哩空间在这里https://space.bilibili.com/2032069531
+>
+
+>  [!Tip]
+> 欢迎参与开发
 >
 > 可以给个Star⭐吗，求你了www
 <h3>
@@ -19,6 +22,7 @@
 * 这是我的第一个提交到Github上的项目，还请多多指教！
 * 由于不保证TurboWarp Packager打包的HTML文件可读性，所以请下载Releases或者code中的sb3文件，然后用**TurboWarp**打开，再修改源代码
 * 仓库分为code和HTML两种类型，其中，code文件夹放入的是从2.3.0及更高版本的sb3文件，HTML同理
+* 项目字体为Saira
 
 因为HTML的原理，所以只要你的电脑有浏览器，就绝对可以运行
 
