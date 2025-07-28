@@ -10,7 +10,7 @@
 <h3>
     计时器 2
 </h3>
-项目通过TurboWarp Packager来打包成HTML格式文件，目前的在线网址为https://timer-v2.pages.dev/(有些地区访问不上去，请挂梯子)
+项目通过TurboWarp Packager来打包成HTML格式文件，目前的在线网址为https://timer-v2.pages.dev/  (有些地区访问不上去，请挂梯子)
 </div>
 
 ## 关于这个项目
