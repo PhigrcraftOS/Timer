@@ -38,7 +38,7 @@
 
 到 [活动的issues](https://github.com/PhigrcraftOS/Timer/issues) 来查找所有的提议
 
-你也可以分支仓库，然后提一个pr(Pull Request)
+你也可以点击上方的Fork(复制)，然后提一个pr(Pull Request)
 
 ## 许可证
 
