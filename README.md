@@ -10,6 +10,11 @@
 > 欢迎参与开发
 >
 > 可以给个Star⭐吗，求你了www
+
+> [!IMPORTANT]
+> 如果你想要更加流畅的体验，建议使用Windows自带的闹钟与时钟。
+>
+> 这是微软官方推出的，能够很好的与Windows相结合
 <h3>
     <img width="3181" height="1360" alt="图片1" src="https://github.com/user-attachments/assets/573accd7-36ba-4502-bbfe-08f296fbb162" />
     Timer V2
@@ -32,6 +37,7 @@
 * 更加流畅的动画效果
 * 离线程序支持 √
 * 网站迁移到GitHub Pages
+* 利用Python重写
 
 ## 提议
 您在使用中的任何漏洞和您想要的新功能都可以在issues页面来提出，也可以来解决这些提议
