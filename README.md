@@ -15,12 +15,17 @@
 > 如果你想要更加流畅的体验，建议使用Windows自带的闹钟与时钟。
 >
 > 这是微软官方推出的，能够很好的与Windows相结合
+
+>  [!Tip]
+> 这里有[目前的稳定网站]( https://phigrcraftos.github.io/Timer-Web/)与[目前的预览网站(现在为v2.3.0)](https://timer-v2.pages.dev/)
+>
+> 还有[负责稳定网站的仓库](https://github.com/PhigrcraftOS/Timer-Web)
 <h3>
     <img width="3181" height="1360" alt="图片1" src="https://github.com/user-attachments/assets/573accd7-36ba-4502-bbfe-08f296fbb162" />
     Timer V2
 </h3>
 
-项目通过TurboWarp Packager来打包成HTML格式文件，目前的在线网址为https://timer-v2.pages.dev/  (有些地区访问不上去，请挂梯子)
+项目通过TurboWarp Packager来打包成HTML格式文件
 </div>
 
 ## 关于这个项目
